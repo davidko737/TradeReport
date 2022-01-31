@@ -1,0 +1,3 @@
+TradeRef,ProductId,ProductName,BrokerId,BrokerName,Date,Maturity,Qty,BuySell,Price,Desc
+T-FXF-2,2,FXF,1,Broker-A,20200408,20210714,1060000,B,0.035591,AUDNZD-FRD
+T-FXF-2,2,FXF,1,Broker-A,20200408,20210714,1060000,S,0.135591,AUDNZD-FRD

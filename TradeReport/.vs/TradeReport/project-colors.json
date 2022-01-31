@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "caf7e9b5-f448-46a9-9ed2-20db23fafd00": {
+      "ProjectGuid": "caf7e9b5-f448-46a9-9ed2-20db23fafd00",
+      "DisplayName": "TradeReport",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "26e1a6dc-561e-4a2d-9244-0fdb27655edf": {
+      "ProjectGuid": "26e1a6dc-561e-4a2d-9244-0fdb27655edf",
+      "DisplayName": "TradeReportTest",
+      "ColorIndex": 1
+    },
+    "58d49aac-b18d-44ee-8c3a-1384fa013e62": {
+      "ProjectGuid": "58d49aac-b18d-44ee-8c3a-1384fa013e62",
+      "DisplayName": "TradeReportUnitTest",
+      "ColorIndex": 2
+    },
+    "e3b753dd-d9a4-400a-a7b2-99a8c0c5dae1": {
+      "ProjectGuid": "e3b753dd-d9a4-400a-a7b2-99a8c0c5dae1",
+      "DisplayName": "TradeReportUnitTest",
+      "ColorIndex": 3
+    },
+    "adb86619-5bfc-4cc0-836a-2bf07345d84b": {
+      "ProjectGuid": "adb86619-5bfc-4cc0-836a-2bf07345d84b",
+      "DisplayName": "TradeReportUnitTest",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

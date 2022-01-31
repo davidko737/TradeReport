@@ -1,0 +1,6 @@
+C:\Users\davidko\source\repos\TradeReport\TradeReport\obj\Debug\net4.7.2\TradeReport.csproj.AssemblyReference.cache
+C:\Users\davidko\source\repos\TradeReport\TradeReport\obj\Debug\net4.7.2\TradeReport.csproj.SuggestedBindingRedirects.cache
+C:\Users\davidko\source\repos\TradeReport\TradeReport\obj\Debug\net4.7.2\TradeReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davidko\source\repos\TradeReport\TradeReport\obj\Debug\net4.7.2\TradeReport.AssemblyInfoInputs.cache
+C:\Users\davidko\source\repos\TradeReport\TradeReport\obj\Debug\net4.7.2\TradeReport.AssemblyInfo.cs
+C:\Users\davidko\source\repos\TradeReport\TradeReport\obj\Debug\net4.7.2\TradeReport.csproj.CoreCompileInputs.cache

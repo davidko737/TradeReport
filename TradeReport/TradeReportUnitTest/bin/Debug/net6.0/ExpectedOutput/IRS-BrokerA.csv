@@ -1,0 +1,3 @@
+TradeRef,ProductId,ProductName,BrokerId,BrokerName,Date,Maturity,Qty,BuySell,Price,Desc
+T-IRS-3,3,IRS,1,Broker-A,20200508,20210714,1050000,B,1.065591,IRS
+T-IRS-3,3,IRS,1,Broker-A,20200508,20210714,1050000,S,0.065591,IRS

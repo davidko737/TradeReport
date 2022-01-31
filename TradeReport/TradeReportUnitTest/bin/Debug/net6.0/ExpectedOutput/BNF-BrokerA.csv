@@ -1,0 +1,4 @@
+TradeRef,ProductId,ProductName,BrokerId,BrokerName,Date,Maturity,Qty,BuySell,Price,Desc
+T-BNF-1,1,BNF,1,Broker-A,20200408,20210714,1000000,B,1.067591,30YR-US-Treasury
+T-BNF-1,1,BNF,1,Broker-A,20200408,20210714,1000000,B,1.067511,30YR-US-Treasury
+T-BNF-1,1,BNF,1,Broker-A,20200408,20210714,1000000,B,1.187511,30YR-US-Treasury

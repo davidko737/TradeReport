@@ -1,0 +1,5 @@
+C:\Users\davidko\source\repos\TradeReport\TradeReport\obj\Debug\net5.0\TradeReport.csproj.AssemblyReference.cache
+C:\Users\davidko\source\repos\TradeReport\TradeReport\obj\Debug\net5.0\TradeReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davidko\source\repos\TradeReport\TradeReport\obj\Debug\net5.0\TradeReport.AssemblyInfoInputs.cache
+C:\Users\davidko\source\repos\TradeReport\TradeReport\obj\Debug\net5.0\TradeReport.AssemblyInfo.cs
+C:\Users\davidko\source\repos\TradeReport\TradeReport\obj\Debug\net5.0\TradeReport.csproj.CoreCompileInputs.cache
